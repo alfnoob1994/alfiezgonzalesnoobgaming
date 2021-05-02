@@ -1,4 +1,4 @@
-<!DPCTY{E html>
+<!DOCTYPE html>
 <html>
   <head><meta property="fb:pages" content="102741321813589" /></head>
 <body>
